@@ -1,5 +1,7 @@
 package srpfacadelab;
 
+import java.util.List;
+
 public class Item {
 
     private int id;
@@ -83,4 +85,5 @@ public class Item {
     public boolean isRare() {
         return rare;
     }
+
 }
